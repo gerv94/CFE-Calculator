@@ -1,0 +1,196 @@
+{
+    "2022": {
+        "01": [
+            {
+                "name": "basic",
+                "cost": 0.882,
+                "max": 150
+            },
+            {
+                "name": "inter",
+                "cost": 1.073,
+                "max": 130
+            },
+            {
+                "name": "excess",
+                "cost": 3.134
+            }
+        ],
+        "02": [
+            {
+                "name": "basic",
+                "cost": 0.887,
+                "max": 150
+            },
+            {
+                "name": "inter",
+                "cost": 1.079,
+                "max": 130
+            },
+            {
+                "name": "excess",
+                "cost": 3.153
+            }
+        ],
+        "03": [
+            {
+                "name": "basic",
+                "cost": 0.892,
+                "max": 150
+            },
+            {
+                "name": "inter",
+                "cost": 1.085,
+                "max": 130
+            },
+            {
+                "name": "excess",
+                "cost": 3.172
+            }
+        ],
+        "04": [
+            {
+                "name": "basic",
+                "cost": 0.897,
+                "max": 150
+            },
+            {
+                "name": "inter",
+                "cost": 1.091,
+                "max": 130
+            },
+            {
+                "name": "excess",
+                "cost": 3.191
+            }
+        ],
+        "05": [
+            {
+                "name": "basic",
+                "cost": 0.902,
+                "max": 150
+            },
+            {
+                "name": "inter",
+                "cost": 1.097,
+                "max": 130
+            },
+            {
+                "name": "excess",
+                "cost": 3.21
+            }
+        ],
+        "06": [
+            {
+                "name": "basic",
+                "cost": 0.907,
+                "max": 150
+            },
+            {
+                "name": "inter",
+                "cost": 1.104,
+                "max": 130
+            },
+            {
+                "name": "excess",
+                "cost": 3.229
+            }
+        ],
+        "07": [
+            {
+                "name": "basic",
+                "cost": 0.912,
+                "max": 150
+            },
+            {
+                "name": "inter",
+                "cost": 1.111,
+                "max": 130
+            },
+            {
+                "name": "excess",
+                "cost": 3.248
+            }
+        ],
+        "08": [
+            {
+                "name": "basic",
+                "cost": 0.917,
+                "max": 150
+            },
+            {
+                "name": "inter",
+                "cost": 1.118,
+                "max": 130
+            },
+            {
+                "name": "excess",
+                "cost": 3.267
+            }
+        ],
+        "09": [
+            {
+                "name": "basic",
+                "cost": 0.922,
+                "max": 150
+            },
+            {
+                "name": "inter",
+                "cost": 1.125,
+                "max": 130
+            },
+            {
+                "name": "excess",
+                "cost": 3.286
+            }
+        ],
+        "10": [
+            {
+                "name": "basic",
+                "cost": 0.927,
+                "max": 150
+            },
+            {
+                "name": "inter",
+                "cost": 1.132,
+                "max": 130
+            },
+            {
+                "name": "excess",
+                "cost": 3.306
+            }
+        ],
+        "11": [
+            {
+                "name": "basic",
+                "cost": 0.933,
+                "max": 150
+            },
+            {
+                "name": "inter",
+                "cost": 1.139,
+                "max": 130
+            },
+            {
+                "name": "excess",
+                "cost": 3.326
+            }
+        ],
+        "12": [
+            {
+                "name": "basic",
+                "cost": 0.939,
+                "max": 150
+            },
+            {
+                "name": "inter",
+                "cost": 1.146,
+                "max": 130
+            },
+            {
+                "name": "excess",
+                "cost": 3.346
+            }
+        ]
+    }
+}
